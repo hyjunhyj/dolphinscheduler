@@ -364,6 +364,7 @@ const DetailModal = defineComponent({
                   path='database'
                   show-require-mark={requiredDataBase}
                   >
+                    
                     <NInput
                       allowInput={this.trim}
                       class='input-data-base'
